@@ -11,3 +11,4 @@ def factorial(n):
 if __name__ == "__main__":
     NUMBER = 5
     print(f"Factorial of {NUMBER} is {factorial(NUMBER)}")
+
