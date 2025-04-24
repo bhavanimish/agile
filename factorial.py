@@ -9,6 +9,6 @@ def factorial(n):
     return n * factorial(n - 1)
 
 if __name__ == "__main__":
-    NUMBER = 6
+    NUMBER = 9
     print(f"Factorial of {NUMBER} is {factorial(NUMBER)}")
 
